@@ -502,8 +502,8 @@ a {
 }
 
 p > a {
-  color: #444444;
-  font-weight: 700;
+  color: #195c3b;
+  font-weight: 400;
 }
 
 b, strong a {
@@ -595,6 +595,20 @@ div.quarto-post a {
 
 
 /*-- grid listing --*/
+
+/* container */
+.columns {
+  display:flex;
+  flex-wrap:wrap;
+  width:100%;
+}
+
+/* columns */
+.columns > * {
+  width:100%;
+  padding:1rem;
+}
+
 
 .quarto-grid-item {
   border: none;
