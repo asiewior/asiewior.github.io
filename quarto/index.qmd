@@ -1,13 +1,13 @@
 # Systemische Therapie und Beratung
 
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width=30%}
 ![](images/portrait.jpg)
 :::
 
-::: {.g-col-8}
+::: {.column width=70%}
 Liebe Interessent*innen,
 
 Herzlich Willkommen!
