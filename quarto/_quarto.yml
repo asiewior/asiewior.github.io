@@ -13,12 +13,12 @@ website:
     background: "#74a857"
     title: "Anna-Maria Siewior"
     collapse-below: lg
-    right:
-      - therapie.qmd
-      - text: Über mich
-        file: ubermich.qmd
-      - kosten.qmd
-      - kontakt.qmd
+    #right:
+      #- therapie.qmd
+      #- text: Über mich
+      #  file: ubermich.qmd
+      #- kosten.qmd
+      #- kontakt.qmd
 
   page-navigation: false
   back-to-top-navigation: false
